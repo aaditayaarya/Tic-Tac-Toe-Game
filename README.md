@@ -2,7 +2,6 @@
 *you can check the live demo here :
 https://aaditayaarya.github.io/Tic-Tac-Toe-Game/
 
-#tic-tac-toe-Game
 *Tic Tac Toe Game Description
 
 *Our Tic Tac Toe game, built using HTML, CSS, and JavaScript, provides a classic yet engaging experience for players. The game features a simple 3x3 grid layout where two players take turns marking their respective symbols, 'X' and 'O'. The goal is to be the first to form a horizontal, vertical, or diagonal line of three identical symbols.
