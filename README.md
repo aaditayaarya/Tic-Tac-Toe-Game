@@ -10,7 +10,12 @@
 Features:
 
 *Interactive Gameplay: Players click on grid cells to place their marks.
+
 *Dynamic Feedback:** The game updates in real-time, highlighting the winning combination and indicating a draw when all cells are filled without a winner.
+
 *Responsive Design:** The game adapts to various screen sizes, ensuring a seamless experience on both desktop and mobile devices.
+
 *Restart Option:** Players can easily reset the game to start a new match.
+
 *The clean and intuitive interface, combined with smooth animations and responsive design, makes our Tic Tac Toe game an enjoyable and accessible way to pass the time.
+
